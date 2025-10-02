@@ -52,7 +52,7 @@ Thanks to Mickaël Mouillé for providing this dataset under the CC BY-NC-SA 4.0
 *   14511 | 3452
 *   5949 |  6088
 
-![ROC Curve Comparison.png](https://drive.google.com/file/d/1wbECL9EOw92GCXvMI667e4KMkZWZmq37/view)
+![ROC Curve Comparison.png](https://github.com/macedoestevaof/kickstarter_modeling/blob/main/ROC%20Curve%20Comparison.png)
 
 # Conclusions
 
