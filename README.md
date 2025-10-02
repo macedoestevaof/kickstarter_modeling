@@ -40,16 +40,25 @@ Thanks to Mickaël Mouillé for providing this dataset under the CC BY-NC-SA 4.0
 *   Random Forest AUC-ROC:       0.745
 
 **Confusion Matrix - Logistic Regression:**
-*   14413  |   3550
-*   6137  |  5900
+|                      | Predicted: Negative | Predicted: Positive |
+|----------------------|---------------------|----------------------|
+| **Actual: Negative** | 14,413  | 3,550 |
+| **Actual: Positive** | 6,137 | 5,900  |
+
 
 **Confusion Matrix - Decision Tree:**
-*   14235  |  3728
-*   6036   |  6001
+|                      | Predicted: Negative | Predicted: Positive |
+|----------------------|---------------------|----------------------|
+| **Actual: Negative** | 14,235  | 3,728  |
+| **Actual: Positive** | 6,036  | 6,001  |
+
 
 **Confusion Matrix - Random Forest:**
-*   14511 | 3452
-*   5949 |  6088
+|                      | Predicted: Negative | Predicted: Positive |
+|----------------------|---------------------|----------------------|
+| **Actual: Negative** | 14,511  | 3,452 |
+| **Actual: Positive** | 5,949  | 6,088  |
+
 
 ![ROC Curve Comparison.png](https://github.com/macedoestevaof/kickstarter_modeling/blob/main/ROC%20Curve%20Comparison.png)
 
