@@ -4,14 +4,13 @@ This dataset appears to be from two extractions of Kickstarter projects (https:/
 
 Estevão Macedo used this for his final project in the course "Introduction to Data Science" (2023), part of the Master's Program in Complex Systems Modeling at the University of São Paulo.
 
-Kickstarter is a crowdfunding platform where people can raise funds during a campaign period. The goal of this analysis is to predict successful and failed Kickstarter projects at the time of their campaign announcement.
+Kickstarter is a crowdfunding platform where people can raise funds during a campaign period. The goal of this analysis is to **predict project success or failure at the time of campaign announcement, comparing the models: Logistic Regression, Decision Tree, and Random Forest.**
 
 The data is publicly available at: https://www.kaggle.com/datasets/kemical/kickstarter-projects
 
 Thanks to Mickaël Mouillé for providing this dataset under the CC BY-NC-SA 4.0 license.
 
-
-**Model Evaluation Metrics:**
+# Model Evaluation Metrics
 
 **Accuracy**
 
